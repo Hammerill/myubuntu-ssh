@@ -1,3 +1,3 @@
 service ssh start
 
-read
+sleep infinity
