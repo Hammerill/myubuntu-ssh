@@ -1,0 +1,3 @@
+service ssh start
+
+read
